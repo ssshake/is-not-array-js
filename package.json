@@ -1,0 +1,31 @@
+{
+  "name": "isnotarray",
+  "version": "1.0.0",
+  "description": "A super helpful package to determine if something is not an array. It is far more useful than the popular isArray package.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.13.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssshake/is-not-array-js.git"
+  },
+  "keywords": [
+    "is",
+    "not",
+    "array"
+  ],
+  "author": { 
+    "name": "Dicky B",
+    "url": "http://demlinks.com",
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssshake/is-not-array-js/issues"
+  },
+  "homepage": "https://github.com/ssshake/is-not-array-js#readme"
+}
