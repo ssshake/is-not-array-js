@@ -1,5 +1,3 @@
-var isArray = require('isarray');
+let isArray = require('isarray');
 
-module.exports = function(arr) {
-  return !isArray(arr);
-}
+module.exports = () => !isArray(arr);
