@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A super helpful package to determine if something is not an array. It is far more useful than the popular isArray package.",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "isarray": "lastest"
+  },
   "devDependencies": {
     "tape": "~2.13.4"
   },
@@ -21,7 +23,7 @@
   ],
   "author": { 
     "name": "Dicky B",
-    "url": "http://demlinks.com",
+    "url": "http://demlinks.com"
   },
   "license": "ISC",
   "bugs": {
