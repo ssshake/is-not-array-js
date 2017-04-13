@@ -1,7 +1,7 @@
 
-# isarray
+# isNotArray
 
-`Array#isNotArray` for older browsers.
+Because isArray isBoring
 
 ## Usage
 
