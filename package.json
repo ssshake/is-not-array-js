@@ -1,10 +1,10 @@
 {
   "name": "isnotarray",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A super helpful es6 package to determine if something is not an array. It is far more useful than the popular, but deprecated, isArray package.",
   "main": "index.js",
   "dependencies": {
-    "isarray": "lastest"
+    "isarray": "latest"
   },
   "devDependencies": {
     "tape": "~2.13.4"
